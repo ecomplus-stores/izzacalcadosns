@@ -9,7 +9,7 @@
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/izzacalcadosns",
   "logo": "/img/uploads/logo-izza-calc-ados.png",
-  "name": "izzacalcadosns",
+  "name": "Izza Calçados",
   "short_name": "Izza Calçados",
   "lang": "pt_br",
   "currency": "BRL",
@@ -21,6 +21,6 @@
   "secondary_color": "#9420a3",
   "icon": "/img/icon.png",
   "store_id": 44402,
-  "description": "izzacalcadosns",
+  "description": "Olá!\nSejam bem vindos a loja IZZA CALÇADOS. \nTrabalhamos com moda atemporal e nosso trabalho é feito com muito afeto!\nTodos os nossos calçados são feitos de forma artesanal, ou seja, feitos à mão.",
   "large_icon": "/img/large-icon.png"
 }
