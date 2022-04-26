@@ -1,11 +1,11 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Frete Grátis acima de R$189,90"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "parcele em 3x sem juros"
   },
   "exchange": {
     "show": false,
