@@ -3,6 +3,10 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "custom-html",
+      "html": "<meta name=\"facebook-domain-verification\" content=\"561gyuvna72afhy70ppcrmunxres07\" />"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
